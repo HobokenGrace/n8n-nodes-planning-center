@@ -16,7 +16,7 @@
     "url": "git+https://github.com/ZoneMix/n8n-nodes-planning-center.git"
   },
   "engines": {
-    "node": ">=20.15"
+    "node": "=22"
   },
   "main": "index.js",
   "scripts": {
