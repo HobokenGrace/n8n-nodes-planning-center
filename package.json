@@ -2,19 +2,14 @@
   "name": "n8n-nodes-planning-center",
   "version": "1.0.2",
   "description": "Community node package for n8n that integrates with Planning Center.",
-  "keywords": [
-    "n8n-community-node-package",
-    "planning-center"
-  ],
+  "keywords": ["n8n-community-node-package", "planning-center"],
   "license": "MIT",
   "homepage": "https://github.com/ZoneMix/n8n-nodes-planning-center.git",
   "author": {
     "name": "Bailey Belisario",
     "email": "zonemix@zonemix.tech"
   },
-  "contributors": [
-    "Nathan Cho <ntcho13@gmail.com>"
-  ],
+  "contributors": ["Nathan Cho <ntcho13@gmail.com>"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hobokengrace/n8n-nodes-planning-center.git"
@@ -31,17 +26,11 @@
     "lintfix": "eslint nodes credentials package.json --fix",
     "prepublishOnly": "npm run build && npm run lint -c .eslintrc.prepublish.js nodes credentials package.json"
   },
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "n8n": {
     "n8nNodesApiVersion": 1,
-    "credentials": [
-      "dist/credentials/PlanningCenterOAuth2Api.credentials.js"
-    ],
-    "nodes": [
-      "dist/nodes/PlanningCenter/PlanningCenter.node.js"
-    ]
+    "credentials": ["dist/credentials/PlanningCenterOAuth2Api.credentials.js"],
+    "nodes": ["dist/nodes/PlanningCenter/PlanningCenter.node.js"]
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.10",

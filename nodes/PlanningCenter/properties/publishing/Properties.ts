@@ -11,14 +11,14 @@ import { getManyEpisodesProperties } from './GetManyEpisodes';
 import { createEpisodeProperties } from './CreateEpisode';
 
 export const publishingProperties = [
-	...publishingOperations,
-	...getChannelProperties,
-	...getManyChannelsProperties,
-	...getSeriesProperties,
-	...getManySeriesProperties,
-	...getSpeakerProperties,
-	...getManySpeakersProperties,
-	...getEpisodeProperties,
-	...getManyEpisodesProperties,
-	...createEpisodeProperties,
+  ...publishingOperations,
+  ...getChannelProperties,
+  ...getManyChannelsProperties,
+  ...getSeriesProperties,
+  ...getManySeriesProperties,
+  ...getSpeakerProperties,
+  ...getManySpeakersProperties,
+  ...getEpisodeProperties,
+  ...getManyEpisodesProperties,
+  ...createEpisodeProperties,
 ];
