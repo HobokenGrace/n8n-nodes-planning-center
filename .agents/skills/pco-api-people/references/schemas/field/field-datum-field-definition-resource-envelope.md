@@ -1,0 +1,28 @@
+# field-datum-field-definition-resource-envelope
+
+**Type:** object
+
+## Fields
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `data` | [fielddefinition_resource](fielddefinition-resource.md) | No |  |
+| `included` | any[] | No |  |
+| `meta` | object | No |  |
+
+## Nested Fields
+
+### `meta`
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `can_include` | enum: field_options,tab | No |  |
+| `parent` | object | No |  |
+
+#### `meta.parent`
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `id` | string | No |  |
+| `type` | enum: FieldDatum | No |  |
+

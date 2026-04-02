@@ -1,0 +1,40 @@
+# person-renderable-attributes-enum
+
+**Type:** enum
+
+## Values
+
+- `accounting_administrator`
+- `anniversary`
+- `avatar`
+- `birthdate`
+- `can_create_forms`
+- `can_email_lists`
+- `child`
+- `created_at`
+- `demographic_avatar_url`
+- `directory_shared_info`
+- `directory_status`
+- `first_name`
+- `gender`
+- `given_name`
+- `grade`
+- `graduation_year`
+- `inactivated_at`
+- `last_name`
+- `login_identifier`
+- `medical_notes`
+- `membership`
+- `mfa_configured`
+- `middle_name`
+- `name`
+- `nickname`
+- `passed_background_check`
+- `people_permissions`
+- `remote_id`
+- `resource_permission_flags`
+- `school_type`
+- `site_administrator`
+- `status`
+- `stripe_customer_identifier`
+- `updated_at`

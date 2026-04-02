@@ -1,0 +1,26 @@
+# form-field-options-resource-envelope
+
+**Type:** object
+
+## Fields
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `data` | [formfieldoption_resource](formfieldoption-resource.md) | No |  |
+| `meta` | object | No |  |
+
+## Nested Fields
+
+### `meta`
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `parent` | object | No |  |
+
+#### `meta.parent`
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `id` | string | No |  |
+| `type` | enum: FormField | No |  |
+

@@ -1,0 +1,79 @@
+# organization Schemas
+
+73 schemas in this group.
+
+| Schema | Type | Description |
+|--------|------|-------------|
+| [organization-attributes](organization-attributes.md) | object | The organization represents a single church. Every |
+| [organization-renderable-attributes-enum](organization-renderable-attributes-enum.md) | enum |  |
+| [organization-resource](organization-resource.md) | object |  |
+| [organization-addresses-resource-envelope](organization-addresses-resource-envelope.md) | object |  |
+| [organization-apps-resource-envelope](organization-apps-resource-envelope.md) | object |  |
+| [organization-background-checks-resource-envelope](organization-background-checks-resource-envelope.md) | object |  |
+| [organization-birthday-people-resource-envelope](organization-birthday-people-resource-envelope.md) | object |  |
+| [organization-campuses-resource-envelope](organization-campuses-resource-envelope.md) | object |  |
+| [organization-carriers-resource-envelope](organization-carriers-resource-envelope.md) | object |  |
+| [organization-emails-resource-envelope](organization-emails-resource-envelope.md) | object |  |
+| [organization-field-data-resource-envelope](organization-field-data-resource-envelope.md) | object |  |
+| [organization-field-definitions-resource-envelope](organization-field-definitions-resource-envelope.md) | object |  |
+| [organization-form-categories-resource-envelope](organization-form-categories-resource-envelope.md) | object |  |
+| [organization-forms-resource-envelope](organization-forms-resource-envelope.md) | object |  |
+| [organization-households-resource-envelope](organization-households-resource-envelope.md) | object |  |
+| [organization-inactive-reasons-resource-envelope](organization-inactive-reasons-resource-envelope.md) | object |  |
+| [organization-list-categories-resource-envelope](organization-list-categories-resource-envelope.md) | object |  |
+| [organization-lists-resource-envelope](organization-lists-resource-envelope.md) | object |  |
+| [organization-marital-statuses-resource-envelope](organization-marital-statuses-resource-envelope.md) | object |  |
+| [organization-membership-types-resource-envelope](organization-membership-types-resource-envelope.md) | object |  |
+| [organization-message-groups-resource-envelope](organization-message-groups-resource-envelope.md) | object |  |
+| [organization-messages-resource-envelope](organization-messages-resource-envelope.md) | object |  |
+| [organization-name-prefixes-resource-envelope](organization-name-prefixes-resource-envelope.md) | object |  |
+| [organization-name-suffixes-resource-envelope](organization-name-suffixes-resource-envelope.md) | object |  |
+| [organization-note-categories-resource-envelope](organization-note-categories-resource-envelope.md) | object |  |
+| [organization-note-category-subscriptions-resource-envelope](organization-note-category-subscriptions-resource-envelope.md) | object |  |
+| [organization-notes-resource-envelope](organization-notes-resource-envelope.md) | object |  |
+| [organization-people-resource-envelope](organization-people-resource-envelope.md) | object |  |
+| [organization-people-imports-resource-envelope](organization-people-imports-resource-envelope.md) | object |  |
+| [organization-person-mergers-resource-envelope](organization-person-mergers-resource-envelope.md) | object |  |
+| [organization-phone-numbers-resource-envelope](organization-phone-numbers-resource-envelope.md) | object |  |
+| [organization-reports-resource-envelope](organization-reports-resource-envelope.md) | object |  |
+| [organization-school-options-resource-envelope](organization-school-options-resource-envelope.md) | object |  |
+| [organization-social-profiles-resource-envelope](organization-social-profiles-resource-envelope.md) | object |  |
+| [organization-spam-email-addresses-resource-envelope](organization-spam-email-addresses-resource-envelope.md) | object |  |
+| [organization-stats-resource-envelope](organization-stats-resource-envelope.md) | object |  |
+| [organization-tabs-resource-envelope](organization-tabs-resource-envelope.md) | object |  |
+| [organization-workflows-resource-envelope](organization-workflows-resource-envelope.md) | object |  |
+| [organization-addresses-collection-envelope](organization-addresses-collection-envelope.md) | object |  |
+| [organization-apps-collection-envelope](organization-apps-collection-envelope.md) | object |  |
+| [organization-background-checks-collection-envelope](organization-background-checks-collection-envelope.md) | object |  |
+| [organization-birthday-people-collection-envelope](organization-birthday-people-collection-envelope.md) | object |  |
+| [organization-campuses-collection-envelope](organization-campuses-collection-envelope.md) | object |  |
+| [organization-carriers-collection-envelope](organization-carriers-collection-envelope.md) | object |  |
+| [organization-emails-collection-envelope](organization-emails-collection-envelope.md) | object |  |
+| [organization-field-data-collection-envelope](organization-field-data-collection-envelope.md) | object |  |
+| [organization-field-definitions-collection-envelope](organization-field-definitions-collection-envelope.md) | object |  |
+| [organization-form-categories-collection-envelope](organization-form-categories-collection-envelope.md) | object |  |
+| [organization-forms-collection-envelope](organization-forms-collection-envelope.md) | object |  |
+| [organization-households-collection-envelope](organization-households-collection-envelope.md) | object |  |
+| [organization-inactive-reasons-collection-envelope](organization-inactive-reasons-collection-envelope.md) | object |  |
+| [organization-list-categories-collection-envelope](organization-list-categories-collection-envelope.md) | object |  |
+| [organization-lists-collection-envelope](organization-lists-collection-envelope.md) | object |  |
+| [organization-marital-statuses-collection-envelope](organization-marital-statuses-collection-envelope.md) | object |  |
+| [organization-membership-types-collection-envelope](organization-membership-types-collection-envelope.md) | object |  |
+| [organization-message-groups-collection-envelope](organization-message-groups-collection-envelope.md) | object |  |
+| [organization-messages-collection-envelope](organization-messages-collection-envelope.md) | object |  |
+| [organization-name-prefixes-collection-envelope](organization-name-prefixes-collection-envelope.md) | object |  |
+| [organization-name-suffixes-collection-envelope](organization-name-suffixes-collection-envelope.md) | object |  |
+| [organization-note-categories-collection-envelope](organization-note-categories-collection-envelope.md) | object |  |
+| [organization-note-category-subscriptions-collection-envelope](organization-note-category-subscriptions-collection-envelope.md) | object |  |
+| [organization-notes-collection-envelope](organization-notes-collection-envelope.md) | object |  |
+| [organization-people-collection-envelope](organization-people-collection-envelope.md) | object |  |
+| [organization-people-imports-collection-envelope](organization-people-imports-collection-envelope.md) | object |  |
+| [organization-person-mergers-collection-envelope](organization-person-mergers-collection-envelope.md) | object |  |
+| [organization-phone-numbers-collection-envelope](organization-phone-numbers-collection-envelope.md) | object |  |
+| [organization-reports-collection-envelope](organization-reports-collection-envelope.md) | object |  |
+| [organization-school-options-collection-envelope](organization-school-options-collection-envelope.md) | object |  |
+| [organization-social-profiles-collection-envelope](organization-social-profiles-collection-envelope.md) | object |  |
+| [organization-spam-email-addresses-collection-envelope](organization-spam-email-addresses-collection-envelope.md) | object |  |
+| [organization-stats-collection-envelope](organization-stats-collection-envelope.md) | object |  |
+| [organization-tabs-collection-envelope](organization-tabs-collection-envelope.md) | object |  |
+| [organization-workflows-collection-envelope](organization-workflows-collection-envelope.md) | object |  |

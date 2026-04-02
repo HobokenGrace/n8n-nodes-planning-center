@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "pco-api-people": {
+      "source": "ntcho/skills",
+      "sourceType": "github",
+      "computedHash": "5dd10fc642b1075b6f772eb74feeeb54bf47a28b1af91d2a04a9ceea66df6aca"
+    }
+  }
+}
